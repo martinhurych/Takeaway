@@ -236,11 +236,11 @@ Tdef(\3, {
 
 		~play3.set(\left, 1);
 
-		rrand(10,20).wait;
+		rrand(30,60).wait;
 
 		~play3.set(\left, 0);
 
-		rrand(10,15).wait;
+		rrand(30,60).wait;
 
 	};
 
